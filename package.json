@@ -1,0 +1,9 @@
+{
+  "name": "vanilla-confirmation-modal",
+  "version": "1.0.0",
+  "scripts": {
+    "live": "live-server --port=8000"
+  },
+  "author": "Rob Lao",
+  "license": "ISC"
+}
